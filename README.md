@@ -1,4 +1,4 @@
-# Exercise 1
+# Car's Color Classifier
 Các bước giải quyết bài toán:
 1. Nhận diện ô tô có trong hình.
 2. Lấy phần hình của ô tô nhận diện được ở bước 1 và nhận diện màu sắc.  
